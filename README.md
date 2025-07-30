@@ -60,7 +60,7 @@ python tateti.py
 ## 👤 Autor / Author
 
 **Marianela Albrigi**  
-Desarrollador Python en formación | Aspiring Python Developer  
+Desarrollador en formación Fullstack | Aspiring Fullstack Developer  
 
 - 🌐 [GitHub](https://github.com/marianelaalbrigi)  
 - 💼 [LinkedIn](https://linkedin.com/in/marianela-albrigi)  
